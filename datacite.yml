@@ -1,0 +1,45 @@
+# Metadata for DOI registration according to DataCite Metadata Schema 4.1.
+# For detailed schema description see https://doi.org/10.5438/0014
+
+authors:
+  - firstname: Michael
+    lastname: Hanke
+    id: "ORCID:0000-0001-6398-6370"
+
+  - firstname: Adina
+    lastname: Wagner
+    id: "ORCID:0000-0003-2917-3450"
+
+
+title: Cortical Surface Freesurfer
+
+
+description: |
+  "High-resolution structural images were used to generate the cortical
+   surfaces using FreeSurfer (v5.3.0, freely available at
+   http://surfer.nmr.mgh.harvard.edu, [Dale et al., 1999]). Additional
+   high-resolution T2w images were included in the reconstruction
+   (recon-all -T2 t2file).
+
+   The surface quality was checked by inspecting the slice screenshots
+   of QATool (v1.1, freely available at
+   http://ftp.nmr.mgh.harvard.edu/fswiki/QATools). The QATool was adopted
+   to take sreenshots of the high-resoluton pial surface."
+
+
+keywords:
+  - Neuroscience
+  - Studyforrest
+
+
+license:
+  name: "Open Data Commons Public Domain Dedication and License (PDDL)"
+  url: "https://opendatacommons.org/licenses/pddl/"
+
+
+# Resource type. Default is Dataset, other possible values are Software, Image, Text.
+resourcetype: Dataset
+
+
+# Do not edit or remove the following line
+templateversion: 1.2
