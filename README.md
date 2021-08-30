@@ -1,4 +1,8 @@
+# studyforrest.org Dataset
+
 [![made-with-datalad](https://www.datalad.org/badges/made_with.svg)](https://datalad.org)
+
+## Reconstruction of cortical surfaces
 
 High-resolution structural images were used to generate the cortical surfaces
 using FreeSurfer (v5.3.0, freely available at http://surfer.nmr.mgh.harvard.edu,
